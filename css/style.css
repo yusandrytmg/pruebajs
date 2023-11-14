@@ -1,0 +1,13 @@
+.container{
+	width: 60%;
+	margin: auto;
+	color:brown
+}
+
+.container-fluid{
+	width: 70%;
+	color: blueviolet;
+}
+.body{
+	color: aqua;
+}
